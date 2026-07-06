@@ -1,0 +1,13 @@
+# Dataset (too large for GitHub, download from Kaggle instead)
+NPL.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / Editor
+.DS_Store
+.vscode/
